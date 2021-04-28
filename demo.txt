@@ -1,2 +1,4 @@
 Hello Github. I am Babanazar
 I am a student at University
+
+My goal is to learn how to use github for my projects
