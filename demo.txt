@@ -4,3 +4,5 @@ I am 20 years old.
 My goal is to learn how to use github for my projects
 
 My second goal is to collaborate on projects
+
+Hi I am your collegue. Can I add also my information to here?
